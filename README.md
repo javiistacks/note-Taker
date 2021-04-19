@@ -32,7 +32,11 @@ from the command line while in the teamProfileGenerator folder.
 ## Sample 
  This is a sample of the team profile generator.
  
-<img src="./Assets/screenshot.jpg" width="550" height="400">
+<img src="./Assets/startPage.jpg" width="550" height="400">
+ 
+<img src="./Assets/example.jpg" width="550" height="400">
+
+
 
 
 ## Development
