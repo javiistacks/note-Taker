@@ -8,12 +8,12 @@
 ## Table of Contents
 * [Intro](#intro)
 * [Demo](#demo)
-* [Tests](#tests)
 * [Sample](#sample)
 * [Development](#development)
 * [Installations](#installations)
 * [Created by](#created-by)
 * [Repository](#repository)
+* [Deployment](#deployment)
 * [License](#license)
 
 
@@ -27,14 +27,6 @@ node index.js
 ```
 from the command line while in the teamProfileGenerator folder.
 ![Screencast Demo](./Assets/example.gif)
-
-## Tests
-To run tests on the application, install
-```
-npm install jest
-```
-and run `npm test` from the command line while in the teamProfileGenerator folder.
-![Screencast Demo](./Assets/test.gif)
 
 
 ## Sample 
@@ -68,7 +60,13 @@ Type the following npm install commands one at a time: npm i, npm install jest, 
 
 ## Repository
 ### Github Repository
-Repository at [teamProfileGenerator](https://github.com/javiistacks/note-Taker)
+Repository at [note-Taker](https://github.com/javiistacks/note-Taker)
+
+
+## Deployment
+### Heroku
+Deployment at [note-Taker](https://git.heroku.com/arcane-beyond-29314.git)
+
 
 ## License
 
