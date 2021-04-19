@@ -42,7 +42,7 @@ An application that can be used to write, save, and delete notes. This applicati
 
 
 ## Installations
-Type the following npm install commands one at a time: npm i, npm install jest, npm install inquirer in the command line while in the teamProfileGenerator folder. 
+Type the following npm install commands one at a time: npm i, npm i express, npm i uuid, and npm i path in the command line while in the note-Taker folder. 
 
 * [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)
   * npm is the package manager for the Node JavaScript platform. 
