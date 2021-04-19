@@ -18,21 +18,20 @@
 
 
  ## Introduction
-The Team Profile Generator is a command-line-input application run in Node that requests information from the user about members of an engineering team and generates an HTML file displaying that information.
+An application that can be used to write, save, and delete notes. This application uses an express backend and can save and retrieve note data from a JSON file.
 
 ## Demo
-To run the application, type
-```
-node index.js
-```
-from the command line while in the teamProfileGenerator folder.
 ![Screencast Demo](./Assets/example.gif)
 
 
 ## Sample 
- This is a sample of the team profile generator.
+ These are samples of the note-Taker application. 
  
-<img src="./Assets/screenshot.jpg" width="550" height="400">
+<img src="./Assets/startPage.jpg">
+ 
+<img src="./Assets/example.jpg">
+
+
 
 
 ## Development
@@ -43,16 +42,19 @@ from the command line while in the teamProfileGenerator folder.
 
 
 ## Installations
-Type the following npm install commands one at a time: npm i, npm install jest, npm install inquirer in the command line while in the teamProfileGenerator folder. 
+Type the following npm install commands one at a time: npm i, npm i express, npm i uuid, and npm i path in the command line while in the note-Taker folder. 
 
 * [npm](https://docs.npmjs.com/cli/v7/commands/npm-install)
   * npm is the package manager for the Node JavaScript platform. 
 
-* [jest](https://www.npmjs.com/package/jest)
-  * Jest is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase.
+* [express](https://www.npmjs.com/package/express)
+  * Allows to dynamically render HTML Pages based on passing arguments to templates.
 
-* [inquirer](https://www.npmjs.com/package/inquirer)
-  * A collection of common interactive command line user interfaces.
+* [uuid](https://www.npmjs.com/package/uuid)
+  * (Universally unique identifier) uuid package helps create unique ids and attach it with user information and save to the database.
+ 
+* [path](https://www.npmjs.com/package/path)
+  * The Path module provides a way of working with directories and file paths. 
 
 ## Created by
 * [Javiann Marrero](https://github.com/javiistacks)
