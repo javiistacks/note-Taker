@@ -65,7 +65,7 @@ Repository at [note-Taker](https://github.com/javiistacks/note-Taker)
 
 ## Deployment
 ### Heroku
-Deployment at [note-Taker](https://git.heroku.com/arcane-beyond-29314.git)
+Deployment at [note-Taker](https://arcane-beyond-29314.herokuapp.com)
 
 
 ## License
