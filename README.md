@@ -9,7 +9,6 @@
 * [Intro](#intro)
 * [Demo](#demo)
 * [Sample](#sample)
-* [Development](#development)
 * [Installations](#installations)
 * [Created by](#created-by)
 * [Repository](#repository)
@@ -31,14 +30,6 @@ An application that can be used to write, save, and delete notes. This applicati
  
 <img src="./Assets/example.jpg">
 
-
-
-
-## Development
-
-### Bootstrap
-* [Bootstrap](https://getbootstrap.com/)
-  * Bootstrap was used for layout and mobile responsivess
 
 
 ## Installations
